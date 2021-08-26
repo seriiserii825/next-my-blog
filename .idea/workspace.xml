@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d05f202f-2154-4299-b576-359b86a8611f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/layout/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1xFzD5To2tVh2vSPSQ1CgA6Kz4T" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../with-mongodb-mongoose-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,6 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629965503576</updated>
+      <workItem from="1630003940494" duration="45000" />
     </task>
     <servers />
   </component>
