@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d05f202f-2154-4299-b576-359b86a8611f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/HomeIntro/HomeIntro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/HomeIntro/HomeIntro.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers/convert-to-object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/PostModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/home-intro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/dbConnect.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dbConnect.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/layout/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
